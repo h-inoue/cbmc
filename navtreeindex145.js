@@ -1,6 +1,5 @@
 var NAVTREEINDEX145 =
 {
-"structsort__based__literal__convertert.html#ad33a1fa1a7162787f4c605056c411bf8":[8,0,1159,0],
 "structsorted__variablest.html":[8,0,1160],
 "structsorted__variablest.html#aae28175601f581070a28f5a9134073ab":[8,0,1160,0],
 "structstatement__list__parse__treet_1_1function__blockt.html":[8,0,1183,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX145 =
 "structto__be__merged__irep__hash.html":[8,0,1273],
 "structto__be__merged__irep__hash.html#a1bf41d3c6ceb55ca581675ff2234faf0":[8,0,1273,0],
 "structtrace__optionst.html":[8,0,1277],
-"structtrace__optionst.html#a1cd395b2c6b6913cee49747796a272e6":[8,0,1277,4]
+"structtrace__optionst.html#a1cd395b2c6b6913cee49747796a272e6":[8,0,1277,4],
+"structtrace__optionst.html#a2f24c247d5fa9b58259a3f9a7eab9cf2":[8,0,1277,6]
 };
