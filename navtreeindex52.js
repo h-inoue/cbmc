@@ -1,6 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"classpointer__in__range__exprt.html#a0a0ac229cec82eb6a8ce66809f70e5d6":[8,0,915,2],
 "classpointer__in__range__exprt.html#a24c5287eb092040e928529da376b6d50":[8,0,915,0],
 "classpointer__in__range__exprt.html#a3cb5d9aed0d2fb732c1365c436cd516c":[8,0,915,1],
 "classpointer__in__range__exprt.html#a8841c5c09238b4d5f24ce7d5cfa43f00":[8,0,915,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX52 =
 "classprophecy__r__or__w__ok__exprt.html":[8,0,942],
 "classprophecy__r__or__w__ok__exprt.html#a0653f7d3ad0843f4753839dd586c4253":[8,0,942,0],
 "classprophecy__r__or__w__ok__exprt.html#a19ed18ff12f2e4f7331bd416bd67cb2d":[8,0,942,3],
-"classprophecy__r__or__w__ok__exprt.html#a1f6b97267c162d1e386dda231f2960c9":[8,0,942,4]
+"classprophecy__r__or__w__ok__exprt.html#a1f6b97267c162d1e386dda231f2960c9":[8,0,942,4],
+"classprophecy__r__or__w__ok__exprt.html#a4d9201766b0947d40fc04854e273d921":[8,0,942,6]
 };
