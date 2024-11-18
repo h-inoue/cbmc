@@ -1220,12 +1220,9 @@ void smt2_convt::convert_expr(const exprt &expr)
 
     convert_expr(expr.operands().front());
   }
-  else if(expr.id()==ID_concatenation ||
-          expr.id()==ID_bitand ||
-          expr.id()==ID_bitor ||
-          expr.id()==ID_bitxor ||
-          expr.id()==ID_bitnand ||
-          expr.id()==ID_bitnor)
+  else if(
+    expr.id() == ID_concatenation || expr.id() == ID_bitand ||
+    expr.id() == ID_bitor || expr.id() == ID_bitxor)
   {
     DATA_INVARIANT_WITH_DIAGNOSTICS(
       expr.operands().size() >= 2,
@@ -1254,6 +1251,29 @@ void smt2_convt::convert_expr(const exprt &expr)
     }
 
     out << ")";
+  }
+  else if(
+    expr.id() == ID_bitxnor || expr.id() == ID_bitnand ||
+    expr.id() == ID_bitnor)
+  {
+    // only exist as a binary expression
+    DATA_INVARIANT(
+      expr.operands().size() == 2,
+      expr.id_string() + " should have two operands");
+    const auto &binary_expr = to_binary_expr(expr);
+
+    out << '(';
+    if(binary_expr.id() == ID_bitxnor)
+      out << "bvxnor";
+    else if(binary_expr.id() == ID_bitnand)
+      out << "bvnand";
+    else if(binary_expr.id() == ID_bitnor)
+      out << "bvnor";
+    out << ' ';
+    flatten2bv(binary_expr.op0());
+    out << ' ';
+    flatten2bv(binary_expr.op1());
+    out << ')';
   }
   else if(expr.id()==ID_bitnot)
   {
