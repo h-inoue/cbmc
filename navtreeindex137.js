@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"struct_____c_p_r_o_v_e_r__jsa__concrete__node.html#a9c4891c5bc910d55659b52d584b3191a":[8,0,13,2],
 "struct_____c_p_r_o_v_e_r__jsa__concrete__node.html#aff3534f578b18ddbdd9f74460eea00c6":[8,0,13,1],
 "struct_____c_p_r_o_v_e_r__jsa__iterator.html":[8,0,14],
 "struct_____c_p_r_o_v_e_r__jsa__iterator.html#aad65f2fabf3f04d3b08882047840b8ce":[8,0,14,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "structc__wranglert_1_1function__contract__clauset.html#aed46383628acf6f93a9f51e596f135bb":[8,0,160,1,1],
 "structc__wranglert_1_1functiont.html":[8,0,160,2],
 "structc__wranglert_1_1functiont.html#a005d725c42100a68acab5eb862f7bda6":[8,0,160,2,2],
-"structc__wranglert_1_1functiont.html#a28efa1f2fb7a3d1c3a4d6f3715444cda":[8,0,160,2,3],
-"structc__wranglert_1_1functiont.html#a4e7338144d44692491079ee2c71dc187":[8,0,160,2,1]
+"structc__wranglert_1_1functiont.html#a28efa1f2fb7a3d1c3a4d6f3715444cda":[8,0,160,2,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"structc__wranglert_1_1functiont.html#a4e7338144d44692491079ee2c71dc187":[8,0,160,2,1],
 "structc__wranglert_1_1functiont.html#a691dbaeda8f5d892a73fa11d24a2a178":[8,0,160,2,0],
 "structc__wranglert_1_1functiont.html#ae884c567efe260f7b60d500262651aa5":[8,0,160,2,4],
 "structc__wranglert_1_1loop__contract__clauset.html":[8,0,160,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "structconstant__propagator__domaint_1_1valuest.html#a765909ed7881c0ce4a3d499509af7871":[8,0,274,0,8],
 "structconstant__propagator__domaint_1_1valuest.html#a77bcb6d8297a94358813ca47b6d4c34e":[8,0,274,0,14],
 "structconstant__propagator__domaint_1_1valuest.html#a7816628dbd39effcc6b561f5de1f2c74":[8,0,274,0,4],
-"structconstant__propagator__domaint_1_1valuest.html#a85fa589f2f2feff9548bc5fb282d610e":[8,0,274,0,0],
-"structconstant__propagator__domaint_1_1valuest.html#a9802005d5f601ab8931792b0056559e2":[8,0,274,0,12]
+"structconstant__propagator__domaint_1_1valuest.html#a85fa589f2f2feff9548bc5fb282d610e":[8,0,274,0,0]
 };

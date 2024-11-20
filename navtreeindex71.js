@@ -1,5 +1,6 @@
 var NAVTREEINDEX71 =
 {
+"classw__guardst.html#ad7df90d44be3629e7100435fc36387d8":[8,0,1358,6],
 "classw__guardst.html#ada26c3992ab1403637bcce887dc16f79":[8,0,1358,4],
 "classw__guardst.html#ae8f8d6094802d06be7dc01d75e95cd8c":[8,0,1358,0],
 "classw__ok__exprt.html":[8,0,1359],
@@ -248,6 +249,5 @@ var NAVTREEINDEX71 =
 "concurrency_8h.html":[9,0,2,15,12],
 "concurrency_8h.html#aa0a637f7bfdf00aafe28d4595c80bac9":[9,0,2,15,12,0],
 "concurrency_8h_source.html":[9,0,2,15,12],
-"cone__of__influence_8cpp.html":[9,0,2,15,0,7],
-"cone__of__influence_8cpp_source.html":[9,0,2,15,0,7]
+"cone__of__influence_8cpp.html":[9,0,2,15,0,7]
 };

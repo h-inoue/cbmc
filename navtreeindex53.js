@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"classprophecy__r__ok__exprt.html#a6831bc1c2f994fee537f899b9edfe025":[8,0,941,0],
 "classprophecy__r__or__w__ok__exprt.html":[8,0,942],
 "classprophecy__r__or__w__ok__exprt.html#a0653f7d3ad0843f4753839dd586c4253":[8,0,942,0],
 "classprophecy__r__or__w__ok__exprt.html#a19ed18ff12f2e4f7331bd416bd67cb2d":[8,0,942,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "classrange__spect.html#a53cceef1a7f8bd02cdb21715d9efb239":[8,0,961,4],
 "classrange__spect.html#a785dbfb31e90f48bc0dd086c61246d12":[8,0,961,1],
 "classrange__spect.html#a7c87146f636090edc38d0787ab2c500b":[8,0,961,13],
-"classrange__spect.html#a8dc42371fb6fda79eae8caf468893e45":[8,0,961,2],
-"classrange__spect.html#a8de6c2251c42df8294b2937f69703acd":[8,0,961,16]
+"classrange__spect.html#a8dc42371fb6fda79eae8caf468893e45":[8,0,961,2]
 };
