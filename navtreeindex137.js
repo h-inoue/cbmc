@@ -1,5 +1,9 @@
 var NAVTREEINDEX137 =
 {
+"struct_____c_p_r_o_v_e_r__jsa__concrete__node.html#aff3534f578b18ddbdd9f74460eea00c6":[8,0,13,1],
+"struct_____c_p_r_o_v_e_r__jsa__iterator.html":[8,0,14],
+"struct_____c_p_r_o_v_e_r__jsa__iterator.html#aad65f2fabf3f04d3b08882047840b8ce":[8,0,14,4],
+"struct_____c_p_r_o_v_e_r__jsa__iterator.html#ab0cd5d8b253927507874ed9a1023d64c":[8,0,14,1],
 "struct_____c_p_r_o_v_e_r__jsa__iterator.html#ada0fc3dbda43ceb0122fa4cd9266916f":[8,0,14,0],
 "struct_____c_p_r_o_v_e_r__jsa__iterator.html#aeb569fd2b416d42a400191b6f2219817":[8,0,14,3],
 "struct_____c_p_r_o_v_e_r__jsa__iterator.html#afbbfbcfea1f76a9e44979ec276235f2d":[8,0,14,2],
@@ -60,6 +64,7 @@ var NAVTREEINDEX137 =
 "struct_elf64___ehdr.html#ae6ea9e821472d35e7d2c446fa79bdc3a":[8,0,419,2],
 "struct_elf64___ehdr.html#ae8289d7705794be744876f6246242b9b":[8,0,419,11],
 "struct_elf64___ehdr.html#af13bac5685d725c2ba9930c1176f3082":[8,0,419,6],
+"struct_elf64___shdr.html":[8,0,420],
 "struct_elf64___shdr.html#a18f4475eeec871316099323b512d999d":[8,0,420,6],
 "struct_elf64___shdr.html#a20aab677eb99c91c0e6c3c5dc8f0f3db":[8,0,420,3],
 "struct_elf64___shdr.html#a29812c42d9310eb3ad17dcd68ec25536":[8,0,420,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX137 =
 "structc__wranglert_1_1functiont.html":[8,0,160,2],
 "structc__wranglert_1_1functiont.html#a005d725c42100a68acab5eb862f7bda6":[8,0,160,2,2],
 "structc__wranglert_1_1functiont.html#a28efa1f2fb7a3d1c3a4d6f3715444cda":[8,0,160,2,3],
-"structc__wranglert_1_1functiont.html#a4e7338144d44692491079ee2c71dc187":[8,0,160,2,1],
-"structc__wranglert_1_1functiont.html#a691dbaeda8f5d892a73fa11d24a2a178":[8,0,160,2,0],
-"structc__wranglert_1_1functiont.html#ae884c567efe260f7b60d500262651aa5":[8,0,160,2,4],
-"structc__wranglert_1_1loop__contract__clauset.html":[8,0,160,3],
-"structc__wranglert_1_1loop__contract__clauset.html#a89bef6a1589d32c0f5a9e035c081795c":[8,0,160,3,2],
-"structc__wranglert_1_1loop__contract__clauset.html#a90a0d0ff0dafe2675e16926747516e13":[8,0,160,3,0]
+"structc__wranglert_1_1functiont.html#a4e7338144d44692491079ee2c71dc187":[8,0,160,2,1]
 };

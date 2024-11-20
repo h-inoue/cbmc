@@ -1,5 +1,10 @@
 var NAVTREEINDEX142 =
 {
+"structjava__primitive__type__infot.html":[8,0,712],
+"structjava__primitive__type__infot.html#a5609776ba5490775f71277ba18f5fdef":[8,0,712,2],
+"structjava__primitive__type__infot.html#ab2ccea89393dc05ee8ec34f7b1f273f6":[8,0,712,0],
+"structjava__primitive__type__infot.html#abc9788f6fc83d39269bf08166d341af4":[8,0,712,1],
+"structlabelt.html":[8,0,739],
 "structlabelt.html#a2500f026e1c3539485bc7f6456765dc7":[8,0,739,1],
 "structlabelt.html#a325afb7eeffe5aa130d3a75978b6c56a":[8,0,739,0],
 "structlabelt.html#a48b02dddc5b1f9ecc2712b9971986782":[8,0,739,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX142 =
 "structnfat.html#a838fd70b19c6861946658706c40e93f1":[8,0,861,12],
 "structnfat.html#a849111840a44fba8d5f15651f6fe66cd":[8,0,861,7],
 "structnfat.html#aa32ee710dbc089334025f2b6cf85b61c":[8,0,861,8],
-"structnfat.html#ad39cc180b8bda2a232b0508bf92a74de":[8,0,861,6],
-"structnfat.html#ae59ece6a48257de3a9610fd809f85d41":[8,0,861,5],
-"structnfat_1_1statet.html":[8,0,861,0],
-"structnfat_1_1statet.html#a4146b3b7e112f5c63fab21315fa2ba08":[8,0,861,0,2],
-"structnfat_1_1statet.html#ac0ad1e19811039224c18401fbba3fdb2":[8,0,861,0,1],
-"structnfat_1_1statet.html#ae2d7e935b83dd2001228e6d21045fdcd":[8,0,861,0,0]
+"structnfat.html#ad39cc180b8bda2a232b0508bf92a74de":[8,0,861,6]
 };
