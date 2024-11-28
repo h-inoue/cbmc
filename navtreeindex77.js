@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"dfcc__library_8h.html":[9,0,2,15,1,1,27],
 "dfcc__library_8h.html#a97b83fb2b0fd27b4146627b468ceb57c":[9,0,2,15,1,1,27,1],
 "dfcc__library_8h.html#a97b83fb2b0fd27b4146627b468ceb57ca01410b6a220ee7197045ed52c3e1eb84":[9,0,2,15,1,1,27,1,18],
 "dfcc__library_8h.html#a97b83fb2b0fd27b4146627b468ceb57ca0a6f938522ddc6da8229dc6b80359227":[9,0,2,15,1,1,27,1,42],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "disjunctive__polynomial__acceleration_8h.html":[9,0,2,15,0,10],
 "disjunctive__polynomial__acceleration_8h_source.html":[9,0,2,15,0,10],
 "document__properties_8cpp.html":[9,0,2,15,31],
-"document__properties_8cpp.html#a0aff1735dc2e315e2f1c4b229ea7a00d":[9,0,2,15,31,8],
-"document__properties_8cpp.html#a1ab6468603137cf29f127328b14694ca":[9,0,2,15,31,7]
+"document__properties_8cpp.html#a0aff1735dc2e315e2f1c4b229ea7a00d":[9,0,2,15,31,8]
 };

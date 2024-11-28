@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"classtypecast__exprt.html":[8,0,1295],
 "classtypecast__exprt.html#a2bfd5894f5cb1287403a7b3ae74b7fd7":[8,0,1295,1],
 "classtypecast__exprt.html#aaaed00d256ab18b3cceb5ec02a5832d2":[8,0,1295,0],
 "classtypecheckt.html":[8,0,1296],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "classunsupported__java__class__signature__exceptiont.html":[8,0,1321],
 "classunsupported__java__class__signature__exceptiont.html#a726d2257cdbd4d0c085c68f7f44d51f3":[8,0,1321,0],
 "classunsupported__operation__exceptiont.html":[8,0,1322],
-"classunsupported__operation__exceptiont.html#afcfc52e588da86cdebffc468b4aaab12":[8,0,1322,0],
-"classunwindsett.html":[8,0,1323]
+"classunsupported__operation__exceptiont.html#afcfc52e588da86cdebffc468b4aaab12":[8,0,1322,0]
 };
