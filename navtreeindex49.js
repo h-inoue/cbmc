@@ -1,5 +1,9 @@
 var NAVTREEINDEX49 =
 {
+"classmini__bdd__applyt.html#aafdb507cdb006bbca13a9c7f4ccff1da":[8,0,818,2],
+"classmini__bdd__applyt.html#ad6d3e5a6588a5d7da26d4d78e1f6ff9a":[8,0,818,3],
+"classmini__bdd__applyt.html#af604328d9af55ba403bd28f16649bd31":[8,0,818,1],
+"classmini__bdd__mgrt.html":[8,0,819],
 "classmini__bdd__mgrt.html#a0a0aaf71bc2f8adfb682d5479d0acc1b":[8,0,819,17],
 "classmini__bdd__mgrt.html#a0dd60a067235f056ff9f4fe942f4cdb1":[8,0,819,15],
 "classmini__bdd__mgrt.html#a1f7e9452e67c588f835c5fefc2cf41c9":[8,0,819,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX49 =
 "classnamed__term__exprt.html#a80b597eb5fe3c114caa7f04d8c337f69":[8,0,854,3],
 "classnamed__term__exprt.html#ab4fe25a5947acb639867b67c4fe9ffcb":[8,0,854,2],
 "classnamed__term__exprt.html#afe0c94eda034a6cc01f94c64d4e15dd8":[8,0,854,4],
-"classnamespace__baset.html":[8,0,855],
-"classnamespace__baset.html#a0509ac32210c7c8e9a686126ff4cbca1":[8,0,855,7],
-"classnamespace__baset.html#a08ff1828dbaf894a44a23f50a700255a":[8,0,855,1],
-"classnamespace__baset.html#a1dd4e7c520bf6fa01b07276b786360a8":[8,0,855,3],
-"classnamespace__baset.html#a502de850e529a8dc9395c3839142740c":[8,0,855,2]
+"classnamespace__baset.html":[8,0,855]
 };
