@@ -1,5 +1,6 @@
 [![Build Status][coverity_img]][coverity]
 [![Build Status][codecov_img]][codecov]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fh-inoue%2Fcbmc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fh-inoue%2Fcbmc?ref=badge_shield)
 
 [CProver Documentation](https://diffblue.github.io/cbmc/)
 
@@ -123,3 +124,7 @@ License
 [coverity_img]: https://scan.coverity.com/projects/13552/badge.svg
 [codecov]: https://codecov.io/gh/diffblue/cbmc
 [codecov_img]: https://codecov.io/gh/diffblue/cbmc/branch/develop/graphs/badge.svg
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fh-inoue%2Fcbmc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fh-inoue%2Fcbmc?ref=badge_large)
